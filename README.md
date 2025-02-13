@@ -6,7 +6,7 @@ A simple Pong game implemented in Python that runs directly in the terminal.
 
 * Classic Pong gameplay
 
-* Single-player (against AI) or two-player mode
+* Multiplayer Game
 
 * Smooth paddle movement using keyboard controls
 
